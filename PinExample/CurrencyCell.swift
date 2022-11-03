@@ -21,7 +21,7 @@ class CurrencyCell: UITableViewCell {
     
     let flagLabel: UILabel = {
         let label = UILabel()
-        label.backgroundColor = .secondarySystemBackground
+        label.backgroundColor = .systemGray2
         label.clipsToBounds = true
         label.textAlignment = .center
         label.layer.cornerRadius = 18
