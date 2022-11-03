@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mezhevikin/Pin.git",
+      "state" : {
+        "revision" : "8c15d8c07dd77c2f3aa5d39155d1ccee06c5f34b",
+        "version" : "0.0.8"
+      }
+    }
+  ],
+  "version" : 2
+}
